@@ -1,0 +1,23 @@
+Enumeration:-
+Enumeration data types enhance the readability of the code. If you have integer constants in the code that can be reused or clubbed together, we can use enums to define the constants. The most common example of this is the days of the week.
+enum weekdays;
+enum weekend;
+----------------
+Void:-
+The void is just an empty data type used as a return type for functions. The absence of any other data type is void. When you declare a function as void, it doesn’t have to return anything.
+For example –
+void swapNumbers(int a, int b){
+//multiple lines of code here
+}
+---------------
+Union:-
+--------------
+With a union, you can store different data types in the same memory location. The union can have many members, but only one member can have a value at one time. Union, is thus, a special kind of data type in C.
+The union is defined in the same way as a structure but with the keyword union.
+union Student{
+ char name[25];
+ int id;
+ char group;
+ float marks[5];
+ double interest;
+ }st1, st2;
