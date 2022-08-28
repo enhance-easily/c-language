@@ -1,0 +1,29 @@
+***********BASIC Questions*******************************
+1) Enter the number from the user and check it leap year or no?
+2) Read 4 digit number and print the sum.
+3) Write a simple calculator program.
+4) Check it number is even or odd.
+5) Enter 3 digit number and check it palindrome or not.
+6) Enter the 4 digit number and print the sum of first and last digit.
+7) Enter the 4 digit number and print the sum of 2nd and 3rd digit and check that calculated number is even/odd/prime/palindrom.
+8) Enter the Areas of the following:-
+	a) Circle
+	b) Rectangle
+	c) Triangle
+	d) Square
+	e) || gm
+	f) Trapezium
+	g) Rhombus
+	
+9) Solve the following equations:-
+	a) 2y+5/2=37/2
+	b) (5/2)x=10
+	c) 7m+(19/2)=13
+	d) 4(2-x)=3
+	e) -4=5(p-2)
+10) Is it possible to have a triangle wiht the following sides:-
+	a) 2cm, 3cm, 5cm
+	b) 6cm, 3cm, 2cm
+	c) 3cm, 6cm, 7cm
+11) Enter the value of P,R and T and calculate SI.
+12) Enter the number from the user and check it number is -ve or +ve.
