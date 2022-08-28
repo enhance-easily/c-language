@@ -1,0 +1,14 @@
+1) Read character from the user and find out the ASCII value of Character.
+2) Read character from the user and check it vowel or not. [By using if...else And switch case ]
+3) Reverse the case of input character. If lower then convert into upper case, and if upper then convert into lower case.
+	Note-
+	getchar() is similar to scanf().
+
+	islower() is system defined function under ctype.h header file to check if the character is in lowercase or not.
+
+	toupper() converts the input parameter into equivalent uppercase char.
+
+	putchar() is similar to printf().
+4) Read a character and convert into integer.
+5) Read a character and print next ASCII value.
+ 
