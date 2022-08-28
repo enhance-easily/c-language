@@ -14,6 +14,3 @@ Programs written and compiled in C execute much faster than compared to any othe
 
 ## What is importance of C language?
 C is called as a robust language, which has so many built-in functions and operations, which can be used to write any complex program. Generally, we use to call C as a middle level language.
-
-## Why C language is faster?
-The programs that you write in C compile and execute much faster than those written in other languages. This is because it does not have garbage collection and other such additional processing overheads. Hence, the language is faster as compared to most other programming languages
