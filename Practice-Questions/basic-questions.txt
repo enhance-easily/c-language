@@ -6,7 +6,7 @@
 5) Enter 3 digit number and check it palindrome or not.
 6) Enter the 4 digit number and print the sum of first and last digit.
 7) Enter the 4 digit number and print the sum of 2nd and 3rd digit and check that calculated number is even/odd/prime/palindrom.
-8) Enter the Areas of the following:-
+8) Find the Areas of the following:-
 	a) Circle
 	b) Rectangle
 	c) Triangle
