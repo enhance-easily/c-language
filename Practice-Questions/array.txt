@@ -1,0 +1,22 @@
+****************Array***********************
+# [1-D Array]
+1) Read N elments in an array and print into reverse order.
+2) Insert an elment in the given array at first position.
+3) Delete an element in an array at the desired location.
+4) Search an element in an array.
+5) Print the sum of all emlement of an array.
+6) Count the total number of duplicate elements in an array.
+7) Print the unique elements of an array.
+8) Find biggest and smaller element of an array.
+9) Sort the elements of an array.
+10) Find second largest and smallest element in an array.
+11) Merege two arrays and elements should be in sorted order.
+12) Count even and odd elements of an array. And also find that which elements is larger in number.
+13) Find the union and intersection of two sorted array.
+# [2-D Array]
+14)Enter the 3*3 matrix and perform the following operations:-
+	a) Search an element.
+	b) Print the sum of diagonal elements.
+	c) Print the sum of upper and lower triangle.
+	d) Trasnpose the matrix.
+	e) Find Min. and Max. element of the matrix.
