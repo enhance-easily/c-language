@@ -1,0 +1,72 @@
+Section 1:
+	a) Time/Space Complexity Analysis
+	b) Big O Notation
+	c) Nested Loop Analysis
+	d) Analysis of Bubble Sort
+	e) Analysis of Binary Search
+	f) Analysis o Merge Sort
+	g) Avoiding TLE Errors
+	h) Complexity for worst Case AC
+Section 2: - Bitmanuplation
+	a) Bitwise Operators
+	b) Let Shift & Right Shift
+	c) Odd Even
+	d) Get ith Bitmanuplation
+	e) Cleart ith Bit
+	f) Set ith Bit
+	g) Update ith Bit
+	i) Clear Lst i Bits
+	j) Clear Range o Bits
+	k) Replace Bits
+	l) Two Power
+	m) Count Bits
+	n) Count Bits Hack
+	o) Make it Binary
+Section 3: - Bitmanuplation Problems
+	a) Unique Number-1 & 2 & 3
+	b) Finding Subsets
+	c) Travelling Salesman roblem
+	d) Decode Permutation
+	e) Shortest Supersting
+Section 4: - Linear Recurrences & Matrix Exponentiation
+	a) Binary Exonentiation
+	b) Modular Binary Exonentiation
+	c) Fast Multiplication
+	d) Fibosum
+Section 5: -
+	a) Pigeonhole Principle
+	b) Problem DIVSUB
+	c) Gray Similar Code
+	d) Decreasing Sequence
+	e) Holiday
+Section 6: -
+	a) Combinartorics Introduction
+	b) Binomial Coefficients
+	c) P & C Forumulas
+	d) Comuting Binomial Coefficients
+	e) Birtday Pradox
+	f) Catlan Numbers
+	g) OEIS
+Section 7: -
+	a) Recursion Basics
+	b) Factorial
+	c) Fibonacci Series
+	d) Sorted Array Check
+	e) Understanding Recursion Directions
+	f) Power function
+	g) Tiling Problem
+	h) Cont Strings
+	i) Tower of Hanoi
+Section 8:- Advance Dynamic Programming
+	a) Terms and Definition
+	b) Tabulation vs Memosiation
+	c) Frogs -1 & 2
+	d) Vacation
+	e) Knasac 1 & 2
+	f) LCS
+	g) Longest ath
+	h) Grid, Conis, Stones, Sushi, Deques, Candies, Simes, Matching, Flowers,
+	   Walk,Permutation, Brute Force and Independent Set
+Section 9: 
+
+	TBD - More secion will be update soon
