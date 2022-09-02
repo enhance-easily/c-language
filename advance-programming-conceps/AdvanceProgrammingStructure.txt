@@ -64,7 +64,7 @@ Section 8:- Advance Dynamic Programming
 	d) Vacation
 	e) Knasac 1 & 2
 	f) LCS
-	g) Longest ath
+	g) Longest path
 	h) Grid, Conis, Stones, Sushi, Deques, Candies, Simes, Matching, Flowers,
 	   Walk,Permutation, Brute Force and Independent Set
 Section 9: 
